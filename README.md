@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m professional systems architect and engineer.
-- 😄 I’m learning programming just for fun.
-- 🌱 I’m currently learning DevOps because I feel it's important.
+- 😄 I do programming just for fun.
+- 🌱 I’m currently learning DevOps because I feel it is important.
