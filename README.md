@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m professional systems architect and engineer.
 - 😄 I do programming just for fun.
-- 🌱 I’m currently learning DevOps because I feel it is important.
+- 🌱 I’m currently learning AI and DevOps because I feel it is important.
